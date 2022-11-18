@@ -66,11 +66,12 @@ else
 fi 
 ```
 
-```sh
-### Script 3
-#!/bin/bash
 
-#Crea un guión que nos permita crear una página web con título, una cabecera y un mensaje.
+### Script 3
+- Crea un guión que nos permita crear una página web con título, una cabecera y un mensaje.
+
+```sh
+#!/bin/bash
 
 directorio = "$HOME/Escritorio/HTML/"
 
@@ -109,3 +110,4 @@ elif [ ! -d $directorio ]; then
 	
 	echo "El archivo se ha creado"	
 fi
+```
