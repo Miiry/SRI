@@ -2,7 +2,7 @@
 | Tema | Intoducción |
 | -- | -- |
 | [Tema 0. Servidor Python]( | Crear un servidor web con Python |
-| [Tema 1. Servidores web] | Scripts |
+| [Tema 1. Servidores web](/Ejercicios/) | Scripts |
 |  |  |
 ------
 
