@@ -1,8 +1,8 @@
 # SRI
 | Tema | Intoducción |
 | -- | -- |
-| Tema 0. Servidor Python | Crear un servidor web con Python |
-|  | Scripts |
+| [Tema 0. Servidor Python]( | Crear un servidor web con Python |
+| [Tema 1. Servidores web] | Scripts |
 |  |  |
 ------
 
@@ -17,7 +17,7 @@ python -m http.server 8000
 
 -------
 
-# Tema 0. Scripts
+# Tema 1. Scripts
 
 ### Script 1
 - Crea un script que añada un puerto de escucha en el fichero de configuración de Apache. 
