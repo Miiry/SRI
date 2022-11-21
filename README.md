@@ -1,7 +1,7 @@
 # SRI
 | Tema | Intoducción |
 | -- | -- |
-| [Tema 0. Servidor Python]( | Crear un servidor web con Python |
+| [Tema 0. Servidor Python](/ServidorPython/) | Crear un servidor web con Python |
 | [Tema 1. Servidores web](/Ejercicios/) | Scripts |
 |  |  |
 ------
